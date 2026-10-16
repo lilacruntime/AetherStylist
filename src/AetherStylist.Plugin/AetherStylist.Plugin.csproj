@@ -1,0 +1,21 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.2.0.0</Version>
+    <Author>lilacruntime</Author>
+    <Name>AetherStylist</Name>
+    <Punchline>A little wardrobe brain for Eorzea.</Punchline>
+    <Description>Milestone 2: a welcome window and a placeholder glamour item selector. Open with /aetherstylist.</Description>
+    <RepoUrl>https://github.com/lilacruntime/AetherStylist</RepoUrl>
+    <Tags>glamour;style</Tags>
+  </PropertyGroup>
+  <!-- Allow CLI and editor builds to use the downloaded API 15 assemblies.
+       An explicit DALAMUD_HOME or an installed Dalamud takes precedence. -->
+  <PropertyGroup Condition="'$(DALAMUD_HOME)' == '' and !Exists('$(DalamudLibPath)/Dalamud.dll') and Exists('$(MSBuildProjectDirectory)/../../.dalamud/api15/Dalamud.dll')">
+    <DalamudLibPath>$([System.IO.Path]::GetFullPath('$(MSBuildProjectDirectory)/../../.dalamud/api15/'))</DalamudLibPath>
+    <!-- The SDK computed this list before the project body changed DalamudLibPath. -->
+    <AssemblySearchPaths>$(AssemblySearchPaths);$(DalamudLibPath)</AssemblySearchPaths>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../AetherStylist.Core/AetherStylist.Core.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,400 @@
+[
+  {
+    "Id": 1001,
+    "Name": "Midnight Oversized Jacket",
+    "Slot": "Body",
+    "Styles": [
+      "alt",
+      "streetwear"
+    ],
+    "Color": {
+      "R": 25,
+      "G": 25,
+      "B": 33
+    },
+    "Silhouette": "Loose",
+    "Material": "Leather",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1002,
+    "Name": "Lace Trim Blouse",
+    "Slot": "Body",
+    "Styles": [
+      "cute",
+      "elegant"
+    ],
+    "Color": {
+      "R": 234,
+      "G": 212,
+      "B": 228
+    },
+    "Silhouette": "Fitted",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1003,
+    "Name": "Utility Cropped Vest",
+    "Slot": "Body",
+    "Styles": [
+      "alt",
+      "streetwear"
+    ],
+    "Color": {
+      "R": 58,
+      "G": 65,
+      "B": 71
+    },
+    "Silhouette": "Structured",
+    "Material": "Denim",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1004,
+    "Name": "Soft Knit Sweater",
+    "Slot": "Body",
+    "Styles": [
+      "cute",
+      "casual"
+    ],
+    "Color": {
+      "R": 244,
+      "G": 228,
+      "B": 235
+    },
+    "Silhouette": "Loose",
+    "Material": "Knit",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1101,
+    "Name": "Dark Fitted Trousers",
+    "Slot": "Legs",
+    "Styles": [
+      "alt",
+      "streetwear"
+    ],
+    "Color": {
+      "R": 38,
+      "G": 38,
+      "B": 43
+    },
+    "Silhouette": "Fitted",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1102,
+    "Name": "Graphite Pleated Skirt",
+    "Slot": "Legs",
+    "Styles": [
+      "alt",
+      "cute"
+    ],
+    "Color": {
+      "R": 52,
+      "G": 48,
+      "B": 60
+    },
+    "Silhouette": "Fitted",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": false
+  },
+  {
+    "Id": 1103,
+    "Name": "Relaxed Cargo Trousers",
+    "Slot": "Legs",
+    "Styles": [
+      "alt",
+      "streetwear"
+    ],
+    "Color": {
+      "R": 69,
+      "G": 73,
+      "B": 76
+    },
+    "Silhouette": "Loose",
+    "Material": "Denim",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1104,
+    "Name": "Blush Flowing Skirt",
+    "Slot": "Legs",
+    "Styles": [
+      "cute",
+      "elegant"
+    ],
+    "Color": {
+      "R": 234,
+      "G": 181,
+      "B": 207
+    },
+    "Silhouette": "Flowing",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1201,
+    "Name": "Silver Buckle Boots",
+    "Slot": "Feet",
+    "Styles": [
+      "alt",
+      "streetwear"
+    ],
+    "Color": {
+      "R": 24,
+      "G": 24,
+      "B": 29
+    },
+    "Silhouette": "Structured",
+    "Material": "Leather",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1202,
+    "Name": "Platform Street Sneakers",
+    "Slot": "Feet",
+    "Styles": [
+      "alt",
+      "casual"
+    ],
+    "Color": {
+      "R": 45,
+      "G": 42,
+      "B": 51
+    },
+    "Silhouette": "Neutral",
+    "Material": "Leather",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1203,
+    "Name": "Soft Cream Loafers",
+    "Slot": "Feet",
+    "Styles": [
+      "cute",
+      "elegant"
+    ],
+    "Color": {
+      "R": 230,
+      "G": 222,
+      "B": 205
+    },
+    "Silhouette": "Structured",
+    "Material": "Leather",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1204,
+    "Name": "Rose Ribbon Shoes",
+    "Slot": "Feet",
+    "Styles": [
+      "cute"
+    ],
+    "Color": {
+      "R": 231,
+      "G": 172,
+      "B": 202
+    },
+    "Silhouette": "Fitted",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1301,
+    "Name": "Fingerless Black Gloves",
+    "Slot": "Hands",
+    "Styles": [
+      "alt",
+      "streetwear"
+    ],
+    "Color": {
+      "R": 31,
+      "G": 30,
+      "B": 35
+    },
+    "Silhouette": "Fitted",
+    "Material": "Leather",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1302,
+    "Name": "Metal Accent Bracelets",
+    "Slot": "Hands",
+    "Styles": [
+      "alt",
+      "elegant"
+    ],
+    "Color": {
+      "R": 143,
+      "G": 145,
+      "B": 153
+    },
+    "Silhouette": "Neutral",
+    "Material": "Metal",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1303,
+    "Name": "Soft Lace Cuffs",
+    "Slot": "Hands",
+    "Styles": [
+      "cute",
+      "elegant"
+    ],
+    "Color": {
+      "R": 232,
+      "G": 222,
+      "B": 232
+    },
+    "Silhouette": "Flowing",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1304,
+    "Name": "Knitted Wristwarmers",
+    "Slot": "Hands",
+    "Styles": [
+      "cute",
+      "casual"
+    ],
+    "Color": {
+      "R": 228,
+      "G": 193,
+      "B": 212
+    },
+    "Silhouette": "Fitted",
+    "Material": "Knit",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1401,
+    "Name": "Midnight Star Hairpin",
+    "Slot": "Head",
+    "Styles": [
+      "alt",
+      "cute"
+    ],
+    "Color": {
+      "R": 153,
+      "G": 157,
+      "B": 177
+    },
+    "Silhouette": "Neutral",
+    "Material": "Metal",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1402,
+    "Name": "Dark Ribbon Headband",
+    "Slot": "Head",
+    "Styles": [
+      "alt",
+      "elegant"
+    ],
+    "Color": {
+      "R": 40,
+      "G": 38,
+      "B": 48
+    },
+    "Silhouette": "Neutral",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1403,
+    "Name": "Pastel Flower Clip",
+    "Slot": "Head",
+    "Styles": [
+      "cute"
+    ],
+    "Color": {
+      "R": 233,
+      "G": 168,
+      "B": 202
+    },
+    "Silhouette": "Neutral",
+    "Material": "Cloth",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  },
+  {
+    "Id": 1404,
+    "Name": "Soft Cream Beret",
+    "Slot": "Head",
+    "Styles": [
+      "cute",
+      "casual"
+    ],
+    "Color": {
+      "R": 239,
+      "G": 225,
+      "B": 213
+    },
+    "Silhouette": "Structured",
+    "Material": "Knit",
+    "AllowedJobs": [
+      "ALL"
+    ],
+    "IsOwned": true
+  }
+]
