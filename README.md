@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✧ AetherStylist ♡</h1>
+  <h1>✧ AetherStylist (wip) ♡</h1>
   <p><strong>Build a whole glamour around the pieces you love.</strong></p>
   <p><em>A little wardrobe brain for Eorzea.</em> ✨</p>
   <p>
